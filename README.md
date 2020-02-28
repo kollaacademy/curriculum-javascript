@@ -189,3 +189,7 @@
     <td>225</td>
   </tr>
 </table>
+
+<h2>Materi Ajar</h2>
+
+Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-js/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-js/wiki)
