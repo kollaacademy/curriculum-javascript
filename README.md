@@ -220,7 +220,7 @@
   <tr>
     <td>3</td>
     <td>Coursera</td>
-    <td><a href="https://www.coursera.org/learn/javascript" title="Interactivity with JavaScript">Interactivity with JavaScript</a></td>
+    <td><a href="https://www.coursera.org/learn/python" title="Interactivity with JavaScript">Getting Started with Python</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
@@ -234,7 +234,7 @@
   <tr>
     <td>5</td>
     <td>Udacity</td>
-    <td><a href="https://www.udacity.com/course/intro-to-javascript--ud803" title="Intro to JavaScript">Intro to JavaScript</a></td>
+    <td><a href="https://www.udacity.com/course/introduction-to-python--ud1110" title="Introduction to Python Programming">Introduction to Python Programming</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
@@ -249,4 +249,4 @@
 
 <h2>Materi Ajar</h2>
 
-Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-js/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-js/wiki)
+Lihat [Materi Ajar](https://github.com/kollaacademy/kurikulum-js/wiki) di [Wiki](https://github.com/kollaacademy/kurikulum-js/wiki)
