@@ -184,9 +184,9 @@
   </tr>
   <tr>
     <th colspan="4">Jumlah</th>
-    <td>20</td>
-    <td>19</td>
-    <td>39</td>
+    <td>81</td>
+    <td>144</td>
+    <td>225</td>
   </tr>
 </table>
 
