@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>JavaScript Developer</td>
+      <td>Front-End Programmer</td>
     </tr>
     <tr>
       <td><strong>Standar Kompetensi Acuan</strong></td>
@@ -36,20 +36,21 @@
     </tr>
     <tr>
       <td><strong>Sasaran Pelatihan</strong></td>
-      <td>Terwujudnya SDM yang memiliki kompetensi JavaScript dalam melaksanakan pemrograman web dan aplikasi secara profesional</td>
+      <td>Terwujudnya SDM yang memiliki kompetensi JavaScript dalam melaksanakan pemrograman web  aplikasi secara profesional</td>
     </tr>
     <tr>
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li><strong>js.101.001</strong> Mengerti posisi JavaScript dalam ekosistem web dan aplikasi</li>
-          <li><strong>js.101.002</strong> Mengerti sintaks dan tata bahasa dalam JavaScript</li>
-          <li><strong>js.101.003</strong> Menerapkan topografi dalam halaman web</li>
-          <li><strong>js.101.004</strong> Menerapkan tipografi dalam halaman web</li>
-          <li><strong>js.101.005</strong> Menerapkan hyperlink dalam halaman web</li>
-          <li><strong>js.101.006</strong> Menerapkan multimedia dalam halaman web</li>
-          <li><strong>js.101.007</strong> Menerapkan table dalam halaman web</li>
-          <li><strong>js.101.008</strong> Menerapkan form dalam halaman web</li>
+          <li><strong>js.101.001</strong> Menjelaskan posisi JavaScript dalam ekosistem web dan aplikasi</li>
+          <li><strong>js.101.002</strong> Menjelaskan sintaks dan tata bahasa dalam JavaScript</li>
+          <li><strong>js.101.003</strong> Menerapkan variable dan constant dalam web aplikasi</li>
+          <li><strong>js.101.004</strong> Menerapkan tipe data dalam web aplikasi</li>
+          <li><strong>js.101.005</strong> Menerapkan operator dalam web aplikasi</li>
+          <li><strong>js.101.006</strong> Menerapkan conditional dalam web aplikasi</li>
+          <li><strong>js.101.007</strong> Menerapkan loop dalam web aplikasi</li>
+          <li><strong>js.101.008</strong> Menerapkan function dalam web aplikasi</li>
+          <li><strong>js.101.009</strong> Menerapkan OOP dalam web aplikasi</li>
         </ol>
       </td>
     </tr>
@@ -74,8 +75,9 @@
         <ol>
           <li>Memiliki Kompetensi <strong>komputer.101</strong></li>
           <li>Memiliki Kompetensi <strong>internet.101</strong></li>
-          <li>Memiliki Kompetensi <strong>js.101</strong></li>
+          <li>Memiliki Kompetensi <strong>html.101</strong></li>
           <li>Memiliki Kompetensi <strong>css.101</strong></li>
+          <li>Memiliki Kompetensi <strong>js.101</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -102,7 +104,7 @@
   <tr>
     <td>1</td>
     <td><strong>Ekosistem JavaScript</strong></td>
-    <td>Mengerti posisi JavaScript dalam ekosistem web dan aplikasi</td>
+    <td>Mengerti posisi JavaScript dalam ekosistem web aplikasi</td>
     <td><strong>js.101.001</strong></td>
     <td>3</td>
     <td>0</td>
@@ -119,54 +121,63 @@
   </tr>
   <tr>
     <td>3</td>
-    <td><strong>Topografi JavaScript</strong></td>
-    <td>Menerapkan topografi dalam halaman web</td>
-    <td><strong>js.101.002</strong></td>
-    <td>3</td>
-    <td>3</td>
-    <td>6</td>
-  </tr>
-  <tr>
-    <td>4</td>
-    <td><strong>Tipografi JavaScript</strong></td>
-    <td>Menerapkan tipografi dalam halaman web </td>
+    <td><strong>Variable dan Constant JavaScript</strong></td>
+    <td>Menerapkan variable dan constant dalam web aplikasi</td>
     <td><strong>js.101.003</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>5</td>
-    <td><strong>Hyperlink JavaScript</strong></td>
-    <td>Menerapkan hyperlink dalam halaman web</td>
+    <td>4</td>
+    <td><strong>Tipe Data JavaScript</strong></td>
+    <td>Menerapkan tipe data dalam web aplikasi</td>
     <td><strong>js.101.004</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
   </tr>
   <tr>
+    <td>5</td>
+    <td><strong>Operator JavaScript</strong></td>
+    <td>Menerapkan operator dalam web aplikasi</td>
+    <td><strong>js.101.005</strong></td>
+    <td>3</td>
+    <td>3</td>
     <td>6</td>
-    <td><strong>Multimedia JavaScript</strong></td>
-    <td>Menerapkan multimedia dalam halaman web</td>
-    <td><strong>js.101.004</strong></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><strong>Conditional JavaScript</strong></td>
+    <td>Menerapkan conditional dalam web aplikasi</td>
+    <td><strong>js.101.006</strong></td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
   </tr>
   <tr>
     <td>7</td>
-    <td><strong>Table JavaScript</strong></td>
-    <td>Menerapkan table dalam halaman web</td>
-    <td><strong>js.101.005</strong></td>
+    <td><strong>Loop JavaScript</strong></td>
+    <td>Menerapkan loop dalam web aplikasi</td>
+    <td><strong>js.101.007</strong></td>
     <td>1</td>
     <td>2</td>
     <td>3</td>
   </tr>
   <tr>
     <td>8</td>
-    <td><strong>Form JavaScript</strong></td>
-    <td>Menerapkan form dalam halaman web</td>
-    <td><strong>js.101.006</strong></td>
+    <td><strong>Function JavaScript</strong></td>
+    <td>Menerapkan function dalam web aplikasi</td>
+    <td><strong>js.101.008</strong></td>
+    <td>3</td>
+    <td>3</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><strong>OOP JavaScript</strong></td>
+    <td>Menerapkan OOP dalam web aplikasi</td>
+    <td><strong>js.101.009</strong></td>
     <td>3</td>
     <td>3</td>
     <td>6</td>
