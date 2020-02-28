@@ -1,3 +1,7 @@
+<h1>JAVASCRIPT DEVELOPER</h1>
+
+<h2>Silabus</h2>
+
 <table>
   <tbody>
     <tr>
@@ -186,7 +190,7 @@
   </tr>
 </table>
 
-<h2>Materi Ajar</h2>
+<h2>Sertifikasi</h2>
 <table>
   <tr>
     <tr>
@@ -202,49 +206,42 @@
   <tr>
     <td>1</td>
     <td>SoloLearn</td>
-    <td><a href="https://www.sololearn.com/Course/CSS/" title="CSS Fundamentals">CSS Fundamentals</a></td>
+    <td><a href="https://www.sololearn.com/Course/JavaScript/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
     <td>✓</td>
     <td></td>
   </tr>
   <tr>
     <td>2</td>
     <td>Udemy</td>
-    <td><a href="https://www.udemy.com/course/learn-to-code-in-html-and-css/" title="Become a HTML and CSS Developer">Become a HTML and CSS Developer</a></td>
+    <td><a href="https://www.udemy.com/course/javascriptfundamentals/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
     <td>✓</td>
     <td></td>
   </tr>
   <tr>
     <td>3</td>
     <td>Coursera</td>
-    <td><a href="https://www.coursera.org/learn/introcss" title="Introduction to CSS3">Introduction to CSS3</a></td>
+    <td><a href="https://www.coursera.org/learn/javascript" title="Interactivity with JavaScript">Interactivity with JavaScript</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
   <tr>
     <td>4</td>
     <td>edX</td>
-    <td><a href="https://www.edx.org/course/css-basics" title="CSS Basics">CSS Basics</a></td>
+    <td><a href="https://www.edx.org/course/javascript-introduction">JavaScript Introduction</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>edX</td>
-    <td><a href="https://www.edx.org/course/html5-and-css-fundamentals" title="HTML5 and CSS Fundamentals">HTML5 and CSS Fundamentals</a></td>
-    <td>✓ (audit)</td>
-    <td>✓</td>
-  </tr>
-  <tr>
-    <td>6</td>
     <td>Udacity</td>
     <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud001" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
   <tr>
-    <td>7</td>
+    <td>6</td>
     <td>FreeCodeCamp</td>
-    <td><a href="https://www.freecodecamp.org/learn/responsive-web-design/basic-css/" title="Introduction to Basic CSS">Introduction to Basic CSS</a></td>
+    <td><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" title="Introduction to Basic CSS">Introduction to Basic CSS</a></td>
     <td>✓</td>
     <td></td>
   </tr>
