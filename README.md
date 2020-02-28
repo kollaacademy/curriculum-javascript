@@ -234,14 +234,14 @@
   <tr>
     <td>5</td>
     <td>Udacity</td>
-    <td><a href="https://www.udacity.com/course/intro-to-html-and-css--ud001" title="Intro to HTML and CSS">Intro to HTML and CSS</a></td>
+    <td><a href="https://www.udacity.com/course/intro-to-javascript--ud803" title="Intro to JavaScript">Intro to JavaScript</a></td>
     <td>✓ (audit)</td>
     <td>✓</td>
   </tr>
   <tr>
     <td>6</td>
     <td>FreeCodeCamp</td>
-    <td><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" title="Introduction to Basic CSS">Introduction to Basic CSS</a></td>
+    <td><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" title="Introduction to JavaScript">Introduction to JavaScript</a></td>
     <td>✓</td>
     <td></td>
   </tr>
