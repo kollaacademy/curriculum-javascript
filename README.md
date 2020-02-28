@@ -104,7 +104,7 @@
   <tr>
     <td>1</td>
     <td><strong>Ekosistem JavaScript</strong></td>
-    <td>Mengerti posisi JavaScript dalam ekosistem web aplikasi</td>
+    <td>Menjelaskan posisi JavaScript dalam ekosistem web aplikasi</td>
     <td><strong>js.101.001</strong></td>
     <td>3</td>
     <td>0</td>
@@ -113,7 +113,7 @@
   <tr>
     <td>2</td>
     <td><strong>Sintaks dan Tata Bahasa JavaScript</strong></td>
-    <td>Mengerti sintaks dan tata bahasa dalam JavaScript</td>
+    <td>Menjelaskan sintaks dan tata bahasa dalam JavaScript</td>
     <td><strong>js.101.002</strong></td>
     <td>3</td>
     <td>3</td>
