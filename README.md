@@ -115,72 +115,72 @@
     <td><strong>Sintaks dan Tata Bahasa JavaScript</strong></td>
     <td>Menjelaskan sintaks dan tata bahasa dalam JavaScript</td>
     <td><strong>js.101.002</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>6</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>3</td>
     <td><strong>Variable dan Constant JavaScript</strong></td>
     <td>Menerapkan variable dan constant dalam web aplikasi</td>
     <td><strong>js.101.003</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>6</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>4</td>
     <td><strong>Tipe Data JavaScript</strong></td>
     <td>Menerapkan tipe data dalam web aplikasi</td>
     <td><strong>js.101.004</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>12</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>5</td>
     <td><strong>Operator JavaScript</strong></td>
     <td>Menerapkan operator dalam web aplikasi</td>
     <td><strong>js.101.005</strong></td>
-    <td>3</td>
-    <td>3</td>
     <td>6</td>
+    <td>12</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>6</td>
     <td><strong>Conditional JavaScript</strong></td>
     <td>Menerapkan conditional dalam web aplikasi</td>
     <td><strong>js.101.006</strong></td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+    <td>6</td>
+    <td>12</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>7</td>
     <td><strong>Loop JavaScript</strong></td>
     <td>Menerapkan loop dalam web aplikasi</td>
     <td><strong>js.101.007</strong></td>
-    <td>1</td>
-    <td>2</td>
-    <td>3</td>
+    <td>12</td>
+    <td>24</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>8</td>
     <td><strong>Function JavaScript</strong></td>
     <td>Menerapkan function dalam web aplikasi</td>
     <td><strong>js.101.008</strong></td>
-    <td>3</td>
-    <td>3</td>
-    <td>6</td>
+    <td>12</td>
+    <td>24</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>9</td>
     <td><strong>OOP JavaScript</strong></td>
     <td>Menerapkan OOP dalam web aplikasi</td>
     <td><strong>js.101.009</strong></td>
-    <td>3</td>
-    <td>3</td>
-    <td>6</td>
+    <td>24</td>
+    <td>48</td>
+    <td>72</td>
   </tr>
   <tr>
     <th colspan="4">Jumlah</th>
