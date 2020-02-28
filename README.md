@@ -189,5 +189,3 @@
     <td>225</td>
   </tr>
 </table>
-
-Lihat [Materi Ajar](https://github.com/kollaacademy/curriculum-js/wiki) di [Wiki](https://github.com/kollaacademy/curriculum-js/wiki)
