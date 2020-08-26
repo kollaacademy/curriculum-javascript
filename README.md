@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>JavaScript Programmer</td>
+      <td>JavaScript Developer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
@@ -31,23 +31,27 @@
       <td><strong>Standar Kompetensi Acuan</strong></td>
       <td>
         <ul>
-          <li>Coursera</li>
-          <li>edX</li>
-          <li>Udacity</li>
+          <li>Standar Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
+          <td>Standar Kompetensi Internasional</td>
         </ul>
       </td>
     </tr>
     <tr>
       <td><strong>Skema Sertifikasi Acuan</strong></td>
-      <td>Okupasi Nasional</td>
+      <td>
+        <ul>
+          <li>Sertifikasi Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
+          <td>Sertifikasi Kompetensi Internasional</td>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td><strong>Tujuan Pelatihan</strong></td>
-      <td>Setelah mengikuti pelatihan ini, peserta dapat meningkatkan kompetensi teknis dalam JavaScript secara profesional</td>
+      <td>Peserta meningkatkan kompetensi dalam JavaScript secara profesional</td>
     </tr>
     <tr>
       <td><strong>Sasaran Pelatihan</strong></td>
-      <td>Terwujudnya SDM yang memiliki kompetensi JavaScript dalam melaksanakan pemrograman web  aplikasi secara profesional</td>
+      <td>Terwujudnya SDM yang memiliki kompetensi JavaScript secara profesional</td>
     </tr>
     <tr>
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
@@ -121,7 +125,7 @@
   <tr>
     <td>1</td>
     <td><strong>Ekosistem JavaScript</strong></td>
-    <td>Menjelaskan posisi JavaScript dalam ekosistem web aplikasi</td>
+    <td>Menjelaskan posisi JavaScript dalam ekosistem web dan aplikasi</td>
     <td><strong>js.101.001</strong></td>
     <td>3</td>
     <td>0</td>
@@ -129,8 +133,8 @@
   </tr>
   <tr>
     <td>2</td>
-    <td><strong>Sintaks dan Tata Bahasa JavaScript</strong></td>
-    <td>Menjelaskan sintaks dan tata bahasa dalam JavaScript</td>
+    <td><strong>Syntax dan Grammar pada JavaScript</strong></td>
+    <td>Menjelaskan syntax dan grammar dalam JavaScript</td>
     <td><strong>js.101.002</strong></td>
     <td>6</td>
     <td>6</td>
