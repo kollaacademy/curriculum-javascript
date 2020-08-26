@@ -1,16 +1,27 @@
 <h1>JAVASCRIPT DEVELOPER</h1>
 
+<h2 id="daftar-isi">Daftar Isi</h2>
+
+<ol>
+  <li><a href="#ikhtisar" title="Ikhtisar">Ikhtisar</li>
+  <li><a href="#silabus" title="Silabus">Silabus</li>
+  <li><a href="#materi" title="Materi">Materi</li>
+  <li><a href="#sertifikasi" title="">Sertifikasi</li>
+</ol>
+
+<hr>
+
 <h2>Silabus</h2>
 
 <table>
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>JavaScript Developer</td>
+      <td>JavaScript Programmer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>js.101</strong></td>
+      <td><strong>ke.js.101</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -42,15 +53,18 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li><strong>js.101.001</strong> Menjelaskan posisi JavaScript dalam ekosistem web dan aplikasi</li>
-          <li><strong>js.101.002</strong> Menjelaskan sintaks dan tata bahasa dalam JavaScript</li>
-          <li><strong>js.101.003</strong> Menerapkan variable dan constant dalam web aplikasi</li>
-          <li><strong>js.101.004</strong> Menerapkan tipe data dalam web aplikasi</li>
-          <li><strong>js.101.005</strong> Menerapkan operator dalam web aplikasi</li>
-          <li><strong>js.101.006</strong> Menerapkan conditional dalam web aplikasi</li>
-          <li><strong>js.101.007</strong> Menerapkan loop dalam web aplikasi</li>
-          <li><strong>js.101.008</strong> Menerapkan function dalam web aplikasi</li>
-          <li><strong>js.101.009</strong> Menerapkan OOP dalam web aplikasi</li>
+          <li><strong>ke.js.1.01.01</strong> Instalasi dan Konfigurasi</li>
+          <li><strong>ke.js.1.02.01</strong> Ekosistem</li>
+          <li><strong>ke.js.1.03.01</strong> Syntax dan Grammar</li>
+          <li><strong>ke.js.1.04.01</strong> Comment</li>
+          <li><strong>ke.js.1.05.01</strong> Variable dan Constant</li>
+          <li><strong>ke.js.1.06.01</strong> Tipe Data</li>
+          <li><strong>ke.js.1.07.01</strong> Struktur Data</li>
+          <li><strong>ke.js.1.08.01</strong> Operator</li>
+          <li><strong>ke.js.1.09.01</strong> Conditional</li>
+          <li><strong>ke.js.1.10.01</strong> Loop</li>
+          <li><strong>ke.js.1.11.01</strong> Function</li>
+          <li><strong>ke.js.1.12.01</strong> Debugging</li>
         </ol>
       </td>
     </tr>
@@ -73,11 +87,10 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <strong>komputer.101</strong></li>
-          <li>Memiliki Kompetensi <strong>internet.101</strong></li>
-          <li>Memiliki Kompetensi <strong>html.101</strong></li>
-          <li>Memiliki Kompetensi <strong>css.101</strong></li>
-          <li>Memiliki Kompetensi <strong>js.101</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.komp.1</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.inet.1</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.html.1</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.css.1</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -85,7 +98,11 @@
   </tbody>
 </table>
 
-<h2>Kurikulum</h2>
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
+
+<h2>Silabus</h2>
 
 <table>
   <tr>
@@ -190,7 +207,11 @@
   </tr>
 </table>
 
-<h2>Sertifikasi</h2>
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
+
+<h2 id="sertifikasi">Sertifikasi</h2>
 <table>
   <tr>
     <tr>
@@ -247,6 +268,14 @@
   </tr>
 </table>
 
-<h2>Materi Ajar</h2>
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
+
+<h2 id="materi">Materi</h2>
 
 Lihat [Materi Ajar](https://github.com/kollaacademy/kurikulum-js/wiki) di [Wiki](https://github.com/kollaacademy/kurikulum-js/wiki)
+
+<a href="#daftar-isi" title="^ top">^ top</a>
+
+<hr>
