@@ -32,7 +32,7 @@
       <td>
         <ul>
           <li>Standar Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
-          <td>Standar Kompetensi Internasional</td>
+          <li>Standar Kompetensi Internasional</li>
         </ul>
       </td>
     </tr>
