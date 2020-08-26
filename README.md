@@ -41,7 +41,7 @@
       <td>
         <ul>
           <li>Sertifikasi Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
-          <td>Sertifikasi Kompetensi Internasional</td>
+          <li>Sertifikasi Kompetensi Internasional</li>
         </ul>
       </td>
     </tr>
