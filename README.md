@@ -121,22 +121,30 @@
         <th>Kode Materi Topik</th>
         <th>Pengetahuan</th>
         <th>Keterampilan</th>
-        <th>Total</th>
+        <th>Jumlah</th>
     </tr>
 </thead>
 <tbody>
     <tr>
-        <td>row3 column1</td>
-        <td>row3 column2</td>
-        <td>row3 column3</td>
-        <td>row3 column4</td>
-        <td>row3 column5</td>
-        <td>row3 column6</td>
-        <td>row3 column7</td>
+        <td>1</td>
+        <td>Instalasi dan Konfigurasi JavaScript</td>
+        <td>Instalasi JavaScript</td>
+        <td>ke.js.01.001.01.1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Instalasi dan Konfigurasi JavaScript</td>
+        <td>Konfigurasi JavaScript</td>
+        <td>ke.js.01.001.02.1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
     </tr>
 </tbody>
 </table>
-
 
 <table>
   <tr>
