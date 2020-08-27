@@ -112,12 +112,11 @@
 <thead>
     <tr>
         <th rowspan="2" colspan="1">No</th>
-        <th rowspan="2">Unit Acuan</th>
+        <th rowspan="2">Unit Kompetensi</th>
         <th rowspan="1" colspan="2">Kompetensi Acuan</th>
         <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
     </tr>
     <tr>
-        <th>Unit Kompetensi</th>
         <th>Materi Topik</th>
         <th>Kode Materi Topik</th>
         <th>Pengetahuan</th>
