@@ -91,10 +91,10 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <strong>ke.komp.1</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.inet.1</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.html.1</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.css.1</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.html.01</strong></li>
+          <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
