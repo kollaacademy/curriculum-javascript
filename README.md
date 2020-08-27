@@ -14,99 +14,67 @@
 <h2 id="silabus">Silabus</h2>
 
 <table>
-  <tbody>
+<thead>
     <tr>
-      <td><strong>Nama Program Pelatihan</strong></td>
-      <td>JavaScript Developer</td>
+        <th rowspan="2" colspan="1">No</th>
+        <th rowspan="1" colspan="3">Kompetensi Acuan</th>
+        <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
     </tr>
     <tr>
-      <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>ke.js.01.001</strong></td>
+        <th>Unit Kompetensi</th>
+        <th>Materi Topik</th>
+        <th>Kode Materi Topik</th>
+        <th>Pengetahuan</th>
+        <th>Keterampilan</th>
+        <th>Jumlah</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>1</td>
+        <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
+        <td>Instalasi JavaScript</td>
+        <td>ke.js.01.001.01.1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
-      <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>Front-End Developer</td>
+        <td>2</td>
+        <td>Konfigurasi JavaScript</td>
+        <td>ke.js.01.001.02.1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
-      <td><strong>Standar Kompetensi Acuan</strong></td>
-      <td>
-        <ul>
-          <li>Standar Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
-          <li>Standar Kompetensi Internasional</li>
-        </ul>
-      </td>
+        <td>3</td>
+        <td><strong>Ekosistem JavaScript</strong></td>
+        <td>Tentang JavaScript</td>
+        <td>ke.js.01.002.01.1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
     </tr>
     <tr>
-      <td><strong>Skema Sertifikasi Acuan</strong></td>
-      <td>
-        <ul>
-          <li>Sertifikasi Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
-          <li>Sertifikasi Kompetensi Internasional</li>
-        </ul>
-      </td>
+        <td>4</td>
+        <td rowspan="2"><strong>Syntax dan Grammar</strong></td>
+        <td>Syntax JavaScript</td>
+        <td>ke.js.01.003.01.1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
     </tr>
     <tr>
-      <td><strong>Tujuan Pelatihan</strong></td>
-      <td>Peserta meningkatkan kompetensi dalam JavaScript secara profesional</td>
+        <td>5</td>
+        <td>Grammar JavaScript</td>
+        <td>ke.js.01.003.02.1</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
     </tr>
-    <tr>
-      <td><strong>Sasaran Pelatihan</strong></td>
-      <td>Terwujudnya SDM yang memiliki kompetensi JavaScript secara profesional</td>
-    </tr>
-    <tr>
-      <td><strong>Unit Kompetensi yang ditempuh</strong></td>
-      <td>
-        <ol>
-          <li><strong>ke.js.01.001.00.1</strong> Instalasi dan Konfigurasi</li>
-          <li><strong>ke.js.01.002.00.1</strong> Ekosistem</li>
-          <li><strong>ke.js.01.003.00.1</strong> Syntax dan Grammar</li>
-          <li><strong>ke.js.01.004.00.1</strong> Comment</li>
-          <li><strong>ke.js.01.005.00.1</strong> Variable dan Constant</li>
-          <li><strong>ke.js.01.006.00.1</strong> Tipe Data</li>
-          <li><strong>ke.js.01.007.00.1</strong> Struktur Data</li>
-          <li><strong>ke.js.01.008.00.1</strong> Operator</li>
-          <li><strong>ke.js.01.009.00.1</strong> Conditional</li>
-          <li><strong>ke.js.01.010.00.1</strong> Loop</li>
-          <li><strong>ke.js.01.011.00.1</strong> Function</li>
-          <li><strong>ke.js.01.012.00.1</strong> Debugging</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Perkiraan Waktu Pelatihan</th>
-      <td>225 Jam Pelatihan</td>
-    </tr>
-    <tr>
-      <td><strong>Persyaratan Umum Peserta Pelatihan</strong></td>
-      <td>
-        <ol>
-          <li>Warga Negara Indonesia</li>
-          <li>Tidak ada batasan umur</li>
-          <li>Tidak ada batasan latar belakang pendidikan</li>
-          <li>Lolos Seleksi Administrasi dan Tes Substansi</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
-      <td>
-        <ol>
-          <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.html.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
-          <li>Mengikuti Training of Trainer untuk Mentor</li>
-        </ol>
-      </td>
-    </tr>
-  </tbody>
+</tbody>
 </table>
-
-<a href="#daftar-isi" title="^ top">^ top</a>
-
-<hr>
-
-<h2>Silabus</h2>
 
 <table>
 <thead>
