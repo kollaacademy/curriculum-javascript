@@ -57,18 +57,18 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li><strong>ke.js.1.01.01</strong> Instalasi dan Konfigurasi</li>
-          <li><strong>ke.js.1.02.01</strong> Ekosistem</li>
-          <li><strong>ke.js.1.03.01</strong> Syntax dan Grammar</li>
-          <li><strong>ke.js.1.04.01</strong> Comment</li>
-          <li><strong>ke.js.1.05.01</strong> Variable dan Constant</li>
-          <li><strong>ke.js.1.06.01</strong> Tipe Data</li>
-          <li><strong>ke.js.1.07.01</strong> Struktur Data</li>
-          <li><strong>ke.js.1.08.01</strong> Operator</li>
-          <li><strong>ke.js.1.09.01</strong> Conditional</li>
-          <li><strong>ke.js.1.10.01</strong> Loop</li>
-          <li><strong>ke.js.1.11.01</strong> Function</li>
-          <li><strong>ke.js.1.12.01</strong> Debugging</li>
+          <li><strong>ke.js.01.001.00.1</strong> Instalasi dan Konfigurasi</li>
+          <li><strong>ke.js.01.002.00.1</strong> Ekosistem</li>
+          <li><strong>ke.js.01.003.00.1</strong> Syntax dan Grammar</li>
+          <li><strong>ke.js.01.004.00.1</strong> Comment</li>
+          <li><strong>ke.js.01.005.00.1</strong> Variable dan Constant</li>
+          <li><strong>ke.js.01.006.00.1</strong> Tipe Data</li>
+          <li><strong>ke.js.01.007.00.1</strong> Struktur Data</li>
+          <li><strong>ke.js.01.008.00.1</strong> Operator</li>
+          <li><strong>ke.js.01.009.00.1</strong> Conditional</li>
+          <li><strong>ke.js.01.010.00.1</strong> Loop</li>
+          <li><strong>ke.js.01.011.00.1</strong> Function</li>
+          <li><strong>ke.js.01.012.00.1</strong> Debugging</li>
         </ol>
       </td>
     </tr>
