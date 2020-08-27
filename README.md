@@ -112,7 +112,8 @@
 <thead>
     <tr>
         <th rowspan="2" colspan="1">No</th>
-        <th rowspan="1" colspan="3">Kompetensi Acuan</th>
+        <th rowspan="2">Unit Acuan</th>
+        <th rowspan="1" colspan="2">Kompetensi Acuan</th>
         <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
     </tr>
     <tr>
@@ -194,6 +195,15 @@
     <tr>
         <td><strong>Scope JavaScript</strong></td>
         <td><strong>ke.js.01.004.03.1</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="3">6</td>
+        <td rowspan="3"><strong>Tipe Data JavaScript</strong></td>
+        <td><strong>Variable JavaScript</strong></td>
+        <td><strong>ke.js.01.004.01.1</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
