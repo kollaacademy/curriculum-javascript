@@ -127,7 +127,7 @@
 <tbody>
     <tr>
         <td>1</td>
-        <td>Instalasi dan Konfigurasi JavaScript</td>
+        <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
         <td>Instalasi JavaScript</td>
         <td>ke.js.01.001.01.1</td>
         <td>1</td>
@@ -136,7 +136,6 @@
     </tr>
     <tr>
         <td>2</td>
-        <td>Instalasi dan Konfigurasi JavaScript</td>
         <td>Konfigurasi JavaScript</td>
         <td>ke.js.01.001.02.1</td>
         <td>1</td>
