@@ -14,36 +14,6 @@
 <h2 id="silabus">Silabus</h2>
 
 <table>
-<thead>
-    <tr>
-        <td rowspan="2" colspan="1">No</td>
-        <td rowspan="1" colspan="3">Kompetensi Acuan</td>
-        <td rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</td>
-        <td>row1 column8</td>
-    </tr>
-    <tr>
-        <td>Unit Kompetensi</td>
-        <td>Materi Topik</td>
-        <td>Kode Materi Topik</td>
-        <td>Pengetahuan</td>
-        <td>Keterampilan</td>
-        <td>Total</td>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>row3 column1</td>
-        <td>row3 column2</td>
-        <td>row3 column3</td>
-        <td>row3 column4</td>
-        <td>row3 column5</td>
-        <td>row3 column6</td>
-        <td>row3 column7</td>
-    </tr>
-</tbody>
-</table>
-
-<table>
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
@@ -137,6 +107,36 @@
 <hr>
 
 <h2>Silabus</h2>
+
+<table>
+<thead>
+    <tr>
+        <th rowspan="2" colspan="1">No</th>
+        <th rowspan="1" colspan="3">Kompetensi Acuan</th>
+        <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
+    </tr>
+    <tr>
+        <th>Unit Kompetensi</th>
+        <th>Materi Topik</th>
+        <th>Kode Materi Topik</th>
+        <th>Pengetahuan</th>
+        <th>Keterampilan</th>
+        <th>Total</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>row3 column1</td>
+        <td>row3 column2</td>
+        <td>row3 column3</td>
+        <td>row3 column4</td>
+        <td>row3 column5</td>
+        <td>row3 column6</td>
+        <td>row3 column7</td>
+    </tr>
+</tbody>
+</table>
+
 
 <table>
   <tr>
