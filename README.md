@@ -126,7 +126,7 @@
 </thead>
 <tbody>
     <tr>
-        <td>1</td>
+        <td rowspan="2">1</td>
         <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
         <td>Instalasi JavaScript</td>
         <td>ke.js.01.001.01.1</td>
@@ -135,7 +135,6 @@
         <td>2</td>
     </tr>
     <tr>
-        <td>2</td>
         <td>Konfigurasi JavaScript</td>
         <td>ke.js.01.001.02.1</td>
         <td>1</td>
@@ -143,7 +142,7 @@
         <td>2</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>2</td>
         <td><strong>Ekosistem JavaScript</strong></td>
         <td>Tentang JavaScript</td>
         <td>ke.js.01.002.01.1</td>
@@ -152,7 +151,7 @@
         <td>1</td>
     </tr>
     <tr>
-        <td>4</td>
+        <td rowspan="2">3</td>
         <td rowspan="2"><strong>Syntax dan Grammar</strong></td>
         <td>Syntax JavaScript</td>
         <td>ke.js.01.003.01.1</td>
@@ -161,7 +160,6 @@
         <td>1</td>
     </tr>
     <tr>
-        <td>5</td>
         <td>Grammar JavaScript</td>
         <td>ke.js.01.003.02.1</td>
         <td>1</td>
@@ -171,42 +169,6 @@
 </tbody>
 </table>
 
-<table>
-<thead>
-    <tr>
-        <th rowspan="2" colspan="1">No</th>
-        <th rowspan="1" colspan="3">Kompetensi Acuan</th>
-        <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
-    </tr>
-    <tr>
-        <th>Unit Kompetensi</th>
-        <th>Materi Topik</th>
-        <th>Kode Materi Topik</th>
-        <th>Pengetahuan</th>
-        <th>Keterampilan</th>
-        <th>Jumlah</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>1</td>
-        <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
-        <td>Instalasi JavaScript</td>
-        <td>ke.js.01.001.01.1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Konfigurasi JavaScript</td>
-        <td>ke.js.01.001.02.1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
-    </tr>
-</tbody>
-</table>
 
 <table>
   <tr>
