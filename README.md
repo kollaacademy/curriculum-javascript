@@ -128,15 +128,15 @@
     <tr>
         <td rowspan="2">1</td>
         <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
-        <td>Instalasi JavaScript</td>
-        <td>ke.js.01.001.01.1</td>
+        <td><strong>Instalasi JavaScript</strong></td>
+        <td><strong>ke.js.01.001.01.1</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>Konfigurasi JavaScript</td>
-        <td>ke.js.01.001.02.1</td>
+        <td><strong>Konfigurasi JavaScript</strong></td>
+        <td><strong>ke.js.01.001.02.1</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
@@ -144,27 +144,59 @@
     <tr>
         <td>2</td>
         <td><strong>Ekosistem JavaScript</strong></td>
-        <td>Tentang JavaScript</td>
-        <td>ke.js.01.002.01.1</td>
+        <td><strong>Tentang JavaScript</strong></td>
+        <td><strong>ke.js.01.002.01.1</strong></td>
         <td>1</td>
         <td>0</td>
         <td>1</td>
     </tr>
     <tr>
         <td rowspan="2">3</td>
-        <td rowspan="2"><strong>Syntax dan Grammar</strong></td>
-        <td>Syntax JavaScript</td>
-        <td>ke.js.01.003.01.1</td>
+        <td rowspan="2"><strong>Syntax dan Grammar JavaScript</strong></td>
+        <td><strong>Syntax JavaScript</strong></td>
+        <td><strong>ke.js.01.003.01.1</strong></td>
         <td>1</td>
         <td>0</td>
         <td>1</td>
     </tr>
     <tr>
-        <td>Grammar JavaScript</td>
-        <td>ke.js.01.003.02.1</td>
+        <td><strong>Grammar JavaScript</strong></td>
+        <td><strong>ke.js.01.003.02.1</strong></td>
         <td>1</td>
         <td>0</td>
         <td>1</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><strong>Comment JavaScript</strong></td>
+        <td><strong>Comment JavaScript</strong></td>
+        <td><strong>ke.js.01.004.01.1</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="3">5</td>
+        <td rowspan="3"><strong>Variable dan Constant JavaScript</strong></td>
+        <td><strong>Variable JavaScript</strong></td>
+        <td><strong>ke.js.01.004.01.1</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Constant JavaScript</strong></td>
+        <td><strong>ke.js.01.004.02.1</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>Scope JavaScript</strong></td>
+        <td><strong>ke.js.01.004.03.1</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
     </tr>
 </tbody>
 </table>
