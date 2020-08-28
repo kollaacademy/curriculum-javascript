@@ -1,4 +1,4 @@
-<h1>JAVASCRIPT DEVELOPER</h1>
+<h1>JAVASCRIPT Programmer</h1>
 
 <h2 id="daftar-isi">Daftar Isi</h2>
 
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>JavaScript Developer</td>
+      <td>JavaScript Programmer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>Front-End Developer</td>
+      <td>Programmer</td>
     </tr>
     <tr>
       <td><strong>Standar Kompetensi Acuan</strong></td>
@@ -345,38 +345,89 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="5">8</td>
+        <td rowspan="5">9</td>
         <td rowspan="5"><strong>Conditional JavaScript</strong></td>
-        <td><strong>ke.js.01.008.01.1</strong></td>
+        <td><strong>ke.js.01.009.01.1</strong></td>
         <td><strong>If</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.02.1</strong></td>
+        <td><strong>ke.js.01.009.02.1</strong></td>
         <td><strong>Else</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.03.1</strong></td>
+        <td><strong>ke.js.01.009.03.1</strong></td>
         <td><strong>Else If</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.04.1</strong></td>
+        <td><strong>ke.js.01.009.04.1</strong></td>
         <td><strong>Ternary</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.05.1</strong></td>
+        <td><strong>ke.js.01.009.05.1</strong></td>
         <td><strong>Switch</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="5">10</td>
+        <td rowspan="5"><strong>Loop JavaScript</strong></td>
+        <td><strong>ke.js.01.010.01.1</strong></td>
+        <td><strong>While</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.02.1</strong></td>
+        <td><strong>Do While</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.03.1</strong></td>
+        <td><strong>For</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.04.1</strong></td>
+        <td><strong>Break</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.05.1</strong></td>
+        <td><strong>Continue</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.06.1</strong></td>
+        <td><strong>For Of</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.07.1</strong></td>
+        <td><strong>For In</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
