@@ -199,32 +199,81 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="3">6</td>
-        <td rowspan="3"><strong>Tipe Data JavaScript</strong></td>
+        <td rowspan="7">6</td>
+        <td rowspan="7"><strong>Tipe Data JavaScript</strong></td>
         <td><strong>ke.js.01.004.01.1</strong></td>
+        <td><strong>Boolean JavaScript</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.004.02.1</strong></td>
+        <td><strong>Null JavaScript</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.004.03.1</strong></td>
+        <td><strong>Undefined JavaScript</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.004.04.1</strong></td>
         <td><strong>Number JavaScript</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.004.01.1</strong></td>
+        <td><strong>ke.js.01.004.05.1</strong></td>
+        <td><strong>Symbol JavaScript</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.004.06.1</strong></td>
         <td><strong>String JavaScript</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.004.01.1</strong></td>
-        <td><strong>String JavaScript</strong></td>
+        <td><strong>ke.js.01.004.07.1</strong></td>
+        <td><strong>Object JavaScript</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
     </tr>
+    <tr>
+        <td><strong>ke.js.01.004.08.1</strong></td>
+        <td><strong>Konversi Tipe Data JavaScript</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="2">5</td>
+        <td rowspan="2"><strong>Array JavaScript</strong></td>
+        <td><strong>ke.js.01.003.01.1</strong></td>
+        <td><strong>Array 1 Dimensi JavaScript</strong></td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.003.01.1</strong></td>
+        <td><strong>Array Multi Dimensi JavaScript</strong></td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
 </tbody>
 </table>
-
-
 
 <table>
   <tr>
