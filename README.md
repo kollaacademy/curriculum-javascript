@@ -276,29 +276,29 @@
         <td><strong>ke.js.01.007.01.1</strong></td>
         <td><strong>Array 1 Dimensi</strong></td>
         <td>1</td>
-        <td>0</td>
         <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.02.1</strong></td>
         <td><strong>Array Multi Dimensi</strong></td>
         <td>1</td>
-        <td>0</td>
         <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.03.1</strong></td>
         <td><strong>Object 1 Dimensi</strong></td>
         <td>1</td>
-        <td>0</td>
         <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.04.1</strong></td>
         <td><strong>Object Multi Dimensi</strong></td>
         <td>1</td>
-        <td>0</td>
         <td>1</td>
+        <td>2</td>
     </tr>
     <tr>
         <td rowspan="6">8</td>
