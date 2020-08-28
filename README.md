@@ -264,8 +264,8 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="2">7</td>
-        <td rowspan="2"><strong>Struktur data JavaScript</strong></td>
+        <td rowspan="4">7</td>
+        <td rowspan="4"><strong>Struktur data JavaScript</strong></td>
         <td><strong>ke.js.01.007.01.1</strong></td>
         <td><strong>Array 1 Dimensi</strong></td>
         <td>1</td>
