@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>ke.js.01.001</strong></td>
+      <td><strong>ke.js.01.000.00.1</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -127,6 +127,29 @@
 <tbody>
     <tr>
         <td rowspan="2">1</td>
+        <td rowspan="2"><strong>Ekosistem JavaScript</strong></td>
+        <td><strong>ke.js.01.002.01.1</strong></td>
+        <td><strong>Sejarah</strong></td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.002.02.1</strong></td>
+        <td><strong>Tentang</strong></td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.002.03.1</strong></td>
+        <td><strong>Roadmap</strong></td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td rowspan="2">2</td>
         <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
         <td><strong>ke.js.01.001.01.1</strong></td>
         <td><strong>Instalasi</strong></td>
@@ -140,15 +163,6 @@
         <td>1</td>
         <td>1</td>
         <td>2</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td><strong>Ekosistem JavaScript</strong></td>
-        <td><strong>ke.js.01.002.01.1</strong></td>
-        <td><strong>Tentang JavaScript</strong></td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
     </tr>
     <tr>
         <td rowspan="2">3</td>
@@ -176,8 +190,8 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="3">5</td>
-        <td rowspan="3"><strong>Variable dan Constant JavaScript</strong></td>
+        <td rowspan="2">5</td>
+        <td rowspan="2"><strong>Variable dan Constant JavaScript</strong></td>
         <td><strong>ke.js.01.005.01.1</strong></td>
         <td><strong>Variable</strong></td>
         <td>1</td>
@@ -187,13 +201,6 @@
     <tr>
         <td><strong>ke.js.01.005.02.1</strong></td>
         <td><strong>Constant</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.005.03.1</strong></td>
-        <td><strong>Scope</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
@@ -333,6 +340,15 @@
     <tr>
         <td><strong>ke.js.01.008.06.1</strong></td>
         <td><strong>Special</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="6">8</td>
+        <td rowspan="6"><strong>Operator JavaScript</strong></td>
+        <td><strong>ke.js.01.008.01.1</strong></td>
+        <td><strong>Arithmetic</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
