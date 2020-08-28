@@ -57,8 +57,8 @@
       <td><strong>Unit Kompetensi yang ditempuh</strong></td>
       <td>
         <ol>
-          <li><strong>ke.js.01.001.00.1</strong> Instalasi dan Konfigurasi</li>
-          <li><strong>ke.js.01.002.00.1</strong> Ekosistem</li>
+          <li><strong>ke.js.01.001.00.1</strong> Ekosistem</li>
+          <li><strong>ke.js.01.002.00.1</strong> Instalasi dan Konfigurasi</li>
           <li><strong>ke.js.01.003.00.1</strong> Syntax dan Grammar</li>
           <li><strong>ke.js.01.004.00.1</strong> Comment</li>
           <li><strong>ke.js.01.005.00.1</strong> Variable dan Constant</li>
@@ -113,12 +113,12 @@
     <tr>
         <th rowspan="2" colspan="1">No</th>
         <th rowspan="2">Unit Kompetensi</th>
-        <th rowspan="1" colspan="2">Kompetensi Acuan</th>
+        <th rowspan="1" colspan="2">Topik</th>
         <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
     </tr>
     <tr>
-        <th>Materi Topik</th>
         <th>Kode Materi Topik</th>
+        <th>Materi Topik</th>
         <th>Pengetahuan</th>
         <th>Keterampilan</th>
         <th>Jumlah</th>
@@ -326,16 +326,16 @@
     <tr>
         <td><strong>ke.js.01.008.05.1</strong></td>
         <td><strong>Bitwise</strong></td>
+        <td>1</td>
+        <td>1</td>
         <td>2</td>
-        <td>2</td>
-        <td>4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.06.1</strong></td>
         <td><strong>Special</strong></td>
         <td>1</td>
         <td>1</td>
-        <td>4</td>
+        <td>2</td>
     </tr>
 </tbody>
 </table>
