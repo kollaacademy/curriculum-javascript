@@ -345,10 +345,38 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="6">8</td>
-        <td rowspan="6"><strong>Conditional JavaScript</strong></td>
+        <td rowspan="5">8</td>
+        <td rowspan="5"><strong>Conditional JavaScript</strong></td>
         <td><strong>ke.js.01.008.01.1</strong></td>
-        <td><strong>Arithmetic</strong></td>
+        <td><strong>If</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.008.02.1</strong></td>
+        <td><strong>Else</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.008.03.1</strong></td>
+        <td><strong>Else If</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.008.04.1</strong></td>
+        <td><strong>Ternary</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.008.05.1</strong></td>
+        <td><strong>Switch</strong></td>
         <td>1</td>
         <td>1</td>
         <td>2</td>
