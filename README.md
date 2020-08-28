@@ -126,8 +126,8 @@
 </thead>
 <tbody>
     <tr>
-        <td rowspan="2">1</td>
-        <td rowspan="2"><strong>Ekosistem JavaScript</strong></td>
+        <td rowspan="3">1</td>
+        <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
         <td><strong>ke.js.01.002.01.1</strong></td>
         <td><strong>Sejarah</strong></td>
         <td>1</td>
@@ -346,7 +346,7 @@
     </tr>
     <tr>
         <td rowspan="6">8</td>
-        <td rowspan="6"><strong>Operator JavaScript</strong></td>
+        <td rowspan="6"><strong>Conditional JavaScript</strong></td>
         <td><strong>ke.js.01.008.01.1</strong></td>
         <td><strong>Arithmetic</strong></td>
         <td>1</td>
