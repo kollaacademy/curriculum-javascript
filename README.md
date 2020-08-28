@@ -382,8 +382,8 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="5">10</td>
-        <td rowspan="5"><strong>Loop JavaScript</strong></td>
+        <td rowspan="7">10</td>
+        <td rowspan="7"><strong>Loop JavaScript</strong></td>
         <td><strong>ke.js.01.010.01.1</strong></td>
         <td><strong>While</strong></td>
         <td>1</td>
