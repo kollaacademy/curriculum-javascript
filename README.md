@@ -432,6 +432,20 @@
         <td>1</td>
         <td>2</td>
     </tr>
+    <tr>
+        <td><strong>ke.js.01.010.08.1</strong></td>
+        <td><strong>Foreach</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.010.09.1</strong></td>
+        <td><strong>Map</strong></td>
+        <td>1</td>
+        <td>1</td>
+        <td>2</td>
+    </tr>
 </tbody>
 </table>
 
