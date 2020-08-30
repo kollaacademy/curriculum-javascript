@@ -130,55 +130,43 @@
         <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
         <td><strong>ke.js.01.002.01.1</strong></td>
         <td><strong>Sejarah</strong></td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
+        <td rowspan="3">2</td>
+        <td rowspan="3">0</td>
+        <td rowspan="3">2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.002.02.1</strong></td>
         <td><strong>Tentang</strong></td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.002.03.1</strong></td>
         <td><strong>Roadmap</strong></td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
     </tr>
     <tr>
         <td rowspan="2">2</td>
         <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
         <td><strong>ke.js.01.001.01.1</strong></td>
         <td><strong>Instalasi</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="2">2</td>
+        <td rowspan="2">2</td>
+        <td rowspan="2">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.001.02.1</strong></td>
         <td><strong>Konfigurasi</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td rowspan="2">3</td>
         <td rowspan="2"><strong>Syntax dan Grammar JavaScript</strong></td>
         <td><strong>ke.js.01.003.01.1</strong></td>
         <td><strong>Syntax</strong></td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
+        <td rowspan="2">1</td>
+        <td rowspan="2">0</td>
+        <td rowspan="2">1</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.003.02.1</strong></td>
         <td><strong>Grammar</strong></td>
-        <td>1</td>
-        <td>0</td>
-        <td>1</td>
     </tr>
     <tr>
         <td>4</td>
@@ -194,9 +182,9 @@
         <td rowspan="2"><strong>Variable dan Constant JavaScript</strong></td>
         <td><strong>ke.js.01.005.01.1</strong></td>
         <td><strong>Variable</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="2">2</td>
+        <td rowspan="2">2</td>
+        <td rowspan="2">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.005.02.1</strong></td>
@@ -210,185 +198,125 @@
         <td rowspan="9"><strong>Tipe Data JavaScript</strong></td>
         <td><strong>ke.js.01.006.01.1</strong></td>
         <td><strong>Boolean</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="9">2</td>
+        <td rowspan="9">2</td>
+        <td rowspan="9">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.02.1</strong></td>
         <td><strong>Null</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.03.1</strong></td>
         <td><strong>Undefined</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.04.1</strong></td>
         <td><strong>Number</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.05.1</strong></td>
         <td><strong>Symbol</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.06.1</strong></td>
         <td><strong>String</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.07.1</strong></td>
         <td><strong>Object</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.08.1</strong></td>
         <td><strong>Cek Tipe Data</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.09.1</strong></td>
         <td><strong>Konversi Tipe Data</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td rowspan="4">7</td>
         <td rowspan="4"><strong>Struktur data JavaScript</strong></td>
         <td><strong>ke.js.01.007.01.1</strong></td>
         <td><strong>Array 1 Dimensi</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="4">2</td>
+        <td rowspan="4">2</td>
+        <td rowspan="4">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.02.1</strong></td>
         <td><strong>Array Multi Dimensi</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.03.1</strong></td>
         <td><strong>Object 1 Dimensi</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.04.1</strong></td>
         <td><strong>Object Multi Dimensi</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td rowspan="6">8</td>
         <td rowspan="6"><strong>Operator JavaScript</strong></td>
         <td><strong>ke.js.01.008.01.1</strong></td>
         <td><strong>Arithmetic</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="6">2</td>
+        <td rowspan="6">2</td>
+        <td rowspan="6">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.02.1</strong></td>
         <td><strong>Assignment</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.03.1</strong></td>
         <td><strong>Comparison</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.04.1</strong></td>
         <td><strong>Logical</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.05.1</strong></td>
         <td><strong>Bitwise</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.06.1</strong></td>
         <td><strong>Special</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td rowspan="5">9</td>
         <td rowspan="5"><strong>Conditional JavaScript</strong></td>
         <td><strong>ke.js.01.009.01.1</strong></td>
         <td><strong>If</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="5">2</td>
+        <td rowspan="5">2</td>
+        <td rowspan="5">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.009.02.1</strong></td>
         <td><strong>Else</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.009.03.1</strong></td>
         <td><strong>Else If</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.009.04.1</strong></td>
         <td><strong>Ternary</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.009.05.1</strong></td>
         <td><strong>Switch</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td rowspan="9">10</td>
         <td rowspan="9"><strong>Loop JavaScript</strong></td>
         <td><strong>ke.js.01.010.01.1</strong></td>
         <td><strong>While</strong></td>
-        <td rowspan="9">1</td>
-        <td rowspan="9">1</td>
         <td rowspan="9">2</td>
+        <td rowspan="9">2</td>
+        <td rowspan="9">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.02.1</strong></td>
