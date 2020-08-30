@@ -159,7 +159,7 @@
         <td rowspan="2">3</td>
         <td rowspan="2"><strong>Standard dan Best Practice JavaScript</strong></td>
         <td><strong>ke.js.01.003.01.1</strong></td>
-        <td><strong>Anatomy</strong></td>
+        <td><strong>Anatomi</strong></td>
         <td rowspan="2">1</td>
         <td rowspan="2">1</td>
         <td rowspan="2">2</td>
@@ -237,7 +237,7 @@
     </tr>
     <tr>
         <td rowspan="4">7</td>
-        <td rowspan="4"><strong>Struktur data JavaScript</strong></td>
+        <td rowspan="4"><strong>Struktur Data JavaScript</strong></td>
         <td><strong>ke.js.01.007.01.1</strong></td>
         <td><strong>Array 1 Dimensi</strong></td>
         <td rowspan="4">4</td>
@@ -375,6 +375,19 @@
     <tr>
         <td><strong>ke.js.01.011.05.1</strong></td>
         <td><strong>Generator Function</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.011.06.1</strong></td>
+        <td><strong>New Function</strong></td>
+    </tr>
+    <tr>
+        <td rowspan="6">12</td>
+        <td rowspan="6"><strong>Debugging JavaScript</strong></td>
+        <td><strong>ke.js.01.012.01.1</strong></td>
+        <td><strong>Console Log</strong></td>
+        <td rowspan="6">2</td>
+        <td rowspan="6">4</td>
+        <td rowspan="6">6</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.011.06.1</strong></td>
