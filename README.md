@@ -59,7 +59,7 @@
         <ol>
           <li><strong>ke.js.01.001.00.1</strong> Ekosistem</li>
           <li><strong>ke.js.01.002.00.1</strong> Instalasi dan Konfigurasi</li>
-          <li><strong>ke.js.01.003.00.1</strong> Syntax dan Grammar</li>
+          <li><strong>ke.js.01.003.00.1</strong> Standard dan Best Practice</li>
           <li><strong>ke.js.01.004.00.1</strong> Comment</li>
           <li><strong>ke.js.01.005.00.1</strong> Variable dan Constant</li>
           <li><strong>ke.js.01.006.00.1</strong> Tipe Data</li>
