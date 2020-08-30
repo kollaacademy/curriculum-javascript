@@ -148,8 +148,8 @@
         <td><strong>ke.js.01.001.01.1</strong></td>
         <td><strong>Instalasi</strong></td>
         <td rowspan="2">2</td>
-        <td rowspan="2">2</td>
         <td rowspan="2">4</td>
+        <td rowspan="2">6</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.001.02.1</strong></td>
@@ -161,8 +161,8 @@
         <td><strong>ke.js.01.003.01.1</strong></td>
         <td><strong>Syntax</strong></td>
         <td rowspan="2">1</td>
-        <td rowspan="2">0</td>
         <td rowspan="2">1</td>
+        <td rowspan="2">2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.003.02.1</strong></td>
@@ -195,9 +195,9 @@
         <td rowspan="9"><strong>Tipe Data JavaScript</strong></td>
         <td><strong>ke.js.01.006.01.1</strong></td>
         <td><strong>Boolean</strong></td>
-        <td rowspan="9">2</td>
-        <td rowspan="9">2</td>
         <td rowspan="9">4</td>
+        <td rowspan="9">8</td>
+        <td rowspan="9">12</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.006.02.1</strong></td>
@@ -236,9 +236,9 @@
         <td rowspan="4"><strong>Struktur data JavaScript</strong></td>
         <td><strong>ke.js.01.007.01.1</strong></td>
         <td><strong>Array 1 Dimensi</strong></td>
-        <td rowspan="4">2</td>
-        <td rowspan="4">2</td>
         <td rowspan="4">4</td>
+        <td rowspan="4">6</td>
+        <td rowspan="4">10</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.007.02.1</strong></td>
@@ -257,9 +257,9 @@
         <td rowspan="6"><strong>Operator JavaScript</strong></td>
         <td><strong>ke.js.01.008.01.1</strong></td>
         <td><strong>Arithmetic</strong></td>
-        <td rowspan="6">2</td>
-        <td rowspan="6">2</td>
         <td rowspan="6">4</td>
+        <td rowspan="6">8</td>
+        <td rowspan="6">12</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.02.1</strong></td>
@@ -287,8 +287,8 @@
         <td><strong>ke.js.01.009.01.1</strong></td>
         <td><strong>If</strong></td>
         <td rowspan="5">2</td>
-        <td rowspan="5">2</td>
-        <td rowspan="5">4</td>
+        <td rowspan="5">6</td>
+        <td rowspan="5">8</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.009.02.1</strong></td>
@@ -312,8 +312,8 @@
         <td><strong>ke.js.01.010.01.1</strong></td>
         <td><strong>While</strong></td>
         <td rowspan="9">2</td>
-        <td rowspan="9">2</td>
-        <td rowspan="9">4</td>
+        <td rowspan="9">6</td>
+        <td rowspan="9">8</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.02.1</strong></td>
@@ -353,8 +353,8 @@
         <td><strong>ke.js.01.011.01.1</strong></td>
         <td><strong>Function Declaration</strong></td>
         <td rowspan="6">2</td>
-        <td rowspan="6">4</td>
-        <td rowspan="6">6</td>
+        <td rowspan="6">8</td>
+        <td rowspan="6">10</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.011.02.1</strong></td>
