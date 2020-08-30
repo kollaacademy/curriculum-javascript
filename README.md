@@ -498,6 +498,7 @@
 
 <a href="#daftar-isi" title="^ top">^ top</a>
 
+<!--
 <hr>
 
 <h2 id="materi">Materi</h2>
@@ -506,4 +507,4 @@ Lihat [Materi Ajar](https://github.com/kollaacademy/kurikulum-js/wiki) di [Wiki]
 
 <a href="#daftar-isi" title="^ top">^ top</a>
 
-<hr>
+<hr> -->
