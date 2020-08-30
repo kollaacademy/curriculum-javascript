@@ -1,4 +1,4 @@
-<h1>JAVASCRIPT Programmer</h1>
+<h1>JavaScript Programmer</h1>
 
 <h2 id="daftar-isi">Daftar Isi</h2>
 
