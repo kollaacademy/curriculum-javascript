@@ -170,7 +170,7 @@
     </tr>
     <tr>
         <td rowspan="3">4</td>
-        <td><strong>Comment JavaScript</strong></td>
+        <td rowspan="3"><strong>Comment JavaScript</strong></td>
         <td><strong>ke.js.01.004.01.1</strong></td>
         <td><strong>Single Line</strong></td>
         <td rowspan="3">1</td>
