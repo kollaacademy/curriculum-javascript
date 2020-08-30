@@ -1,4 +1,4 @@
-<h1>JAVASCRIPT Programmer</h1>
+<h1>JavaScript Programmer</h1>
 
 <h2 id="daftar-isi">Daftar Isi</h2>
 
@@ -157,16 +157,16 @@
     </tr>
     <tr>
         <td rowspan="2">3</td>
-        <td rowspan="2"><strong>Syntax dan Grammar JavaScript</strong></td>
+        <td rowspan="2"><strong>Standard dan Best Practice JavaScript</strong></td>
         <td><strong>ke.js.01.003.01.1</strong></td>
-        <td><strong>Syntax</strong></td>
+        <td><strong>Anatomy</strong></td>
         <td rowspan="2">1</td>
         <td rowspan="2">1</td>
         <td rowspan="2">2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.003.02.1</strong></td>
-        <td><strong>Grammar</strong></td>
+        <td><strong>Style Guide</strong></td>
     </tr>
     <tr>
         <td>4</td>
