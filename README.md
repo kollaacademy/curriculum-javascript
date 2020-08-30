@@ -1,4 +1,4 @@
-<h1>JavaScript Programmer</h1>
+<h1>JAVASCRIPT Programmer</h1>
 
 <h2 id="daftar-isi">Daftar Isi</h2>
 
@@ -319,16 +319,16 @@
     <tr>
         <td><strong>ke.js.01.008.03.1</strong></td>
         <td><strong>Comparison</strong></td>
+        <td>1</td>
+        <td>1</td>
         <td>2</td>
-        <td>2</td>
-        <td>4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.04.1</strong></td>
         <td><strong>Logical</strong></td>
+        <td>1</td>
+        <td>1</td>
         <td>2</td>
-        <td>2</td>
-        <td>4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.008.05.1</strong></td>
