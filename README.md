@@ -159,7 +159,7 @@
         <td rowspan="2">3</td>
         <td rowspan="2"><strong>Standard dan Best Practice JavaScript</strong></td>
         <td><strong>ke.js.01.003.01.1</strong></td>
-        <td><strong>Anatomi</strong></td>
+        <td><strong>Struktur</strong></td>
         <td rowspan="2">1</td>
         <td rowspan="2">1</td>
         <td rowspan="2">2</td>
