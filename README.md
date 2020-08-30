@@ -382,69 +382,45 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="7">10</td>
-        <td rowspan="7"><strong>Loop JavaScript</strong></td>
+        <td rowspan="9">10</td>
+        <td rowspan="9"><strong>Loop JavaScript</strong></td>
         <td><strong>ke.js.01.010.01.1</strong></td>
         <td><strong>While</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td rowspan="9">1</td>
+        <td rowspan="9">1</td>
+        <td rowspan="9">2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.02.1</strong></td>
         <td><strong>Do While</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.03.1</strong></td>
         <td><strong>For</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.04.1</strong></td>
         <td><strong>Break</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.05.1</strong></td>
         <td><strong>Continue</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.06.1</strong></td>
         <td><strong>For Of</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.07.1</strong></td>
         <td><strong>For In</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.08.1</strong></td>
         <td><strong>Foreach</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.010.09.1</strong></td>
         <td><strong>Map</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
 </tbody>
 </table>
