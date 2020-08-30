@@ -347,6 +347,35 @@
         <td><strong>ke.js.01.010.09.1</strong></td>
         <td><strong>Map</strong></td>
     </tr>
+    <tr>
+        <td rowspan="6">11</td>
+        <td rowspan="6"><strong>Function JavaScript</strong></td>
+        <td><strong>ke.js.01.011.01.1</strong></td>
+        <td><strong>Function Declaration</strong></td>
+        <td rowspan="6">2</td>
+        <td rowspan="6">4</td>
+        <td rowspan="6">6</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.011.02.1</strong></td>
+        <td><strong>Function Expression</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.011.03.1</strong></td>
+        <td><strong>Shorthand Function</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.011.04.1</strong></td>
+        <td><strong>Arrow Function</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.011.05.1</strong></td>
+        <td><strong>Generator Function</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.011.06.1</strong></td>
+        <td><strong>New Function</strong></td>
+    </tr>
 </tbody>
 </table>
 
