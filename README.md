@@ -381,17 +381,25 @@
         <td><strong>New Function</strong></td>
     </tr>
     <tr>
-        <td rowspan="6">12</td>
-        <td rowspan="6"><strong>Debugging JavaScript</strong></td>
+        <td rowspan="4">12</td>
+        <td rowspan="4"><strong>Debugging JavaScript</strong></td>
         <td><strong>ke.js.01.012.01.1</strong></td>
-        <td><strong>Console Log</strong></td>
-        <td rowspan="6">2</td>
-        <td rowspan="6">4</td>
-        <td rowspan="6">6</td>
+        <td><strong>Console</strong></td>
+        <td rowspan="4">2</td>
+        <td rowspan="4">4</td>
+        <td rowspan="4">6</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.011.06.1</strong></td>
-        <td><strong>New Function</strong></td>
+        <td><strong>ke.js.01.012.02.1</strong></td>
+        <td><strong>Debugger</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.012.03.1</strong></td>
+        <td><strong>Browser Debugging Tools</strong></td>
+    </tr>
+     <tr>
+        <td><strong>ke.js.01.012.04.1</strong></td>
+        <td><strong>Breakpoints</strong></td>
     </tr>
 </tbody>
 </table>
