@@ -178,17 +178,21 @@
         <td>2</td>
     </tr>
     <tr>
-        <td rowspan="2">5</td>
-        <td rowspan="2"><strong>Variable dan Constant JavaScript</strong></td>
+        <td rowspan="3">5</td>
+        <td rowspan="3"><strong>Variable dan Constant JavaScript</strong></td>
         <td><strong>ke.js.01.005.01.1</strong></td>
         <td><strong>Variable</strong></td>
-        <td rowspan="2">2</td>
-        <td rowspan="2">2</td>
-        <td rowspan="2">4</td>
+        <td rowspan="3">2</td>
+        <td rowspan="3">2</td>
+        <td rowspan="3">4</td>
     </tr>
     <tr>
         <td><strong>ke.js.01.005.02.1</strong></td>
         <td><strong>Constant</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.005.03.1</strong></td>
+        <td><strong>Scope</strong></td>
     </tr>
     <tr>
         <td rowspan="9">6</td>
