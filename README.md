@@ -169,13 +169,21 @@
         <td><strong>Style Guide</strong></td>
     </tr>
     <tr>
-        <td>4</td>
+        <td rowspan="3">4</td>
         <td><strong>Comment JavaScript</strong></td>
         <td><strong>ke.js.01.004.01.1</strong></td>
-        <td><strong>Comment</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
+        <td><strong>Single Line</strong></td>
+        <td rowspan="3">1</td>
+        <td rowspan="3">1</td>
+        <td rowspan="3">2</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.004.02.1</strong></td>
+        <td><strong>Multi Line</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.01.004.03.1</strong></td>
+        <td><strong>Comment Out</strong></td>
     </tr>
     <tr>
         <td rowspan="3">5</td>
