@@ -189,9 +189,6 @@
     <tr>
         <td><strong>ke.js.01.005.02.1</strong></td>
         <td><strong>Constant</strong></td>
-        <td>1</td>
-        <td>1</td>
-        <td>2</td>
     </tr>
     <tr>
         <td rowspan="9">6</td>
