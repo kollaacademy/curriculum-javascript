@@ -444,6 +444,8 @@
     <td>SoloLearn</td>
     <td><a href="https://www.sololearn.com/Course/JavaScript/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
     <td>✓</td>
+    <td></td>
+    <td></td>
     <td>✓</td>
     <td></td>
   </tr>
