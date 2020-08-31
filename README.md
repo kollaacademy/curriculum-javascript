@@ -450,37 +450,52 @@
     <td></td>
   </tr>
   <tr>
-    <td>2</td>
+    <td>Udemy</td>
     <td>Udemy</td>
     <td><a href="https://www.udemy.com/course/javascriptfundamentals/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
     <td>✓</td>
     <td></td>
   </tr>
   <tr>
-    <td>3</td>
+    <td>Coursera</td>
     <td>Coursera</td>
     <td><a href="https://www.coursera.org/learn/python" title="Interactivity with JavaScript">Getting Started with Python</a></td>
-    <td>✓ (audit)</td>
+    <td></td>
     <td>✓</td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
   </tr>
   <tr>
-    <td>4</td>
+    <td>edX</td>
     <td>edX</td>
     <td><a href="https://www.edx.org/course/javascript-introduction">JavaScript Introduction</a></td>
-    <td>✓ (audit)</td>
+    <td></td>
     <td>✓</td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>Udacity</td>
     <td>Udacity</td>
     <td><a href="https://www.udacity.com/course/introduction-to-python--ud1110" title="Introduction to Python Programming">Introduction to Python Programming</a></td>
-    <td>✓ (audit)</td>
+    <td></td>
     <td>✓</td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
   </tr>
   <tr>
-    <td>6</td>
+    <td>FreeCodeCamp</td>
     <td>FreeCodeCamp</td>
     <td><a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/" title="Introduction to JavaScript">Introduction to JavaScript</a></td>
+    <td></td>
+    <td>✓</td>
+    <td></td>
     <td>✓</td>
     <td></td>
   </tr>
