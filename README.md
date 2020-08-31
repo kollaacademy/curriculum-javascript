@@ -6,6 +6,7 @@
   <li><a href="#ikhtisar" title="Ikhtisar">Ikhtisar</li>
   <li><a href="#silabus" title="Silabus">Silabus</li>
   <li><a href="#materi" title="Materi">Materi</li>
+  <li><a href="#referensi" title="Referensi">Referensi</li>
   <li><a href="#sertifikasi" title="">Sertifikasi</li>
 </ol>
 
@@ -40,7 +41,7 @@
       <td><strong>Skema Sertifikasi Acuan</strong></td>
       <td>
         <ul>
-          <li>Sertifikasi Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
+          <li>Sertifikasi KKNI Level II pada Kompetensi Keahlian Rekayasa Perangkat Lunak (KKNI)</li>
           <li>Sertifikasi Kompetensi Internasional</li>
         </ul>
       </td>
@@ -417,20 +418,30 @@
 <hr>
 
 <h2 id="sertifikasi">Sertifikasi</h2>
+
 <table>
   <tr>
     <tr>
     <th rowspan="2">No</th>
+    <th rowspan="2">Skema</th>
+    <th rowspan="2">Platform</th>
     <th rowspan="2">Penyelenggara</th>
-    <th rowspan="2">Sertifikasi</th>
+    <th rowspan="2">Nama</th>
+    <th colspan="2">Level</th>
     <th colspan="2">Biaya</th>
   </tr>
   <tr>
+    <th>Beginner</th>
+    <th>Intermediate</th>
+    <th>Advanced</th>
     <th>Free</th>
     <th>Paid</th>
   </tr>
   <tr>
     <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td>SoloLearn</td>
     <td><a href="https://www.sololearn.com/Course/JavaScript/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
     <td>✓</td>
