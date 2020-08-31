@@ -439,11 +439,11 @@
   </tr>
   <tr>
     <td>1</td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Internasional</td>
+    <td>SoloLearn</td>
     <td>SoloLearn</td>
     <td><a href="https://www.sololearn.com/Course/JavaScript/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
+    <td>✓</td>
     <td>✓</td>
     <td></td>
   </tr>
