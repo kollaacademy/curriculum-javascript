@@ -438,8 +438,8 @@
     <th>Paid</th>
   </tr>
   <tr>
-    <td>1</td>
-    <td>Internasional</td>
+    <td rowspan="6">1</td>
+    <td rowspan="6">Internasional</td>
     <td>SoloLearn</td>
     <td>SoloLearn</td>
     <td><a href="https://www.sololearn.com/Course/JavaScript/" title="JavaScript Fundamentals">JavaScript Fundamentals</a></td>
