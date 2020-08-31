@@ -427,7 +427,7 @@
     <th rowspan="2">Platform</th>
     <th rowspan="2">Penyelenggara</th>
     <th rowspan="2">Nama</th>
-    <th colspan="2">Level</th>
+    <th colspan="3">Level</th>
     <th colspan="2">Biaya</th>
   </tr>
   <tr>
