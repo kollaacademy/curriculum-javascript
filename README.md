@@ -129,31 +129,31 @@
     <tr>
         <td rowspan="3">1</td>
         <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
-        <td><strong>ke.js.01.002.01.1</strong></td>
+        <td><strong>ke.js.01.001.01.1</strong></td>
         <td><strong>Sejarah</strong></td>
         <td rowspan="3">2</td>
         <td rowspan="3">0</td>
         <td rowspan="3">2</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.002.02.1</strong></td>
+        <td><strong>ke.js.01.001.02.1</strong></td>
         <td><strong>Tentang</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.002.03.1</strong></td>
+        <td><strong>ke.js.01.001.03.1</strong></td>
         <td><strong>Roadmap</strong></td>
     </tr>
     <tr>
         <td rowspan="2">2</td>
         <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
-        <td><strong>ke.js.01.001.01.1</strong></td>
+        <td><strong>ke.js.01.002.01.1</strong></td>
         <td><strong>Instalasi</strong></td>
         <td rowspan="2">2</td>
         <td rowspan="2">4</td>
         <td rowspan="2">6</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.001.02.1</strong></td>
+        <td><strong>ke.js.01.002.02.1</strong></td>
         <td><strong>Konfigurasi</strong></td>
     </tr>
     <tr>
