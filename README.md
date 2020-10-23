@@ -1,5 +1,3 @@
-<h1>JavaScript Programmer</h1>
-
 <h2 id="daftar-isi">Daftar Isi</h2>
 
 <ol>
@@ -67,9 +65,9 @@
           <li><strong>ke.js.01.007.00.1</strong> Struktur Data</li>
           <li><strong>ke.js.01.008.00.1</strong> Operator</li>
           <li><strong>ke.js.01.009.00.1</strong> Conditional</li>
-          <li><strong>ke.js.01.010.00.1</strong> Loop</li>
-          <li><strong>ke.js.01.011.00.1</strong> Function</li>
-          <li><strong>ke.js.01.012.00.1</strong> Debugging</li>
+          <li><strong>ke.js.01.10.00.1</strong> Loop</li>
+          <li><strong>ke.js.01.11.00.1</strong> Function</li>
+          <li><strong>ke.js.01.12.00.1</strong> Debugging</li>
         </ol>
       </td>
     </tr>
@@ -112,305 +110,327 @@
 <table>
 <thead>
     <tr>
-        <th rowspan="2" colspan="1">No</th>
-        <th rowspan="2">Unit Kompetensi</th>
-        <th rowspan="1" colspan="2">Topik</th>
-        <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
-    </tr>
-    <tr>
-        <th>Kode Materi Topik</th>
-        <th>Materi Topik</th>
-        <th>Pengetahuan</th>
-        <th>Keterampilan</th>
-        <th>Jumlah</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td rowspan="3">1</td>
-        <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
-        <td><strong>ke.js.01.001.01.1</strong></td>
-        <td><strong>Sejarah</strong></td>
-        <td rowspan="3">2</td>
-        <td rowspan="3">0</td>
-        <td rowspan="3">2</td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.001.02.1</strong></td>
-        <td><strong>Tentang</strong></td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.001.03.1</strong></td>
-        <td><strong>Roadmap</strong></td>
-    </tr>
-    <tr>
-        <td rowspan="2">2</td>
-        <td rowspan="2"><strong>Instalasi dan Konfigurasi JavaScript</strong></td>
-        <td><strong>ke.js.01.002.01.1</strong></td>
-        <td><strong>Instalasi</strong></td>
-        <td rowspan="2">2</td>
-        <td rowspan="2">4</td>
-        <td rowspan="2">6</td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.002.02.1</strong></td>
-        <td><strong>Konfigurasi</strong></td>
-    </tr>
-    <tr>
-        <td rowspan="2">3</td>
-        <td rowspan="2"><strong>Standard dan Best Practice JavaScript</strong></td>
-        <td><strong>ke.js.01.003.01.1</strong></td>
-        <td><strong>Struktur</strong></td>
-        <td rowspan="2">1</td>
-        <td rowspan="2">1</td>
-        <td rowspan="2">2</td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.003.02.1</strong></td>
-        <td><strong>Style Guide</strong></td>
-    </tr>
-    <tr>
-        <td rowspan="3">4</td>
-        <td rowspan="3"><strong>Comment JavaScript</strong></td>
-        <td><strong>ke.js.01.004.01.1</strong></td>
-        <td><strong>Single Line</strong></td>
-        <td rowspan="3">1</td>
-        <td rowspan="3">1</td>
-        <td rowspan="3">2</td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.004.02.1</strong></td>
-        <td><strong>Multi Line</strong></td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.004.03.1</strong></td>
-        <td><strong>Comment Out</strong></td>
-    </tr>
-    <tr>
+          <th rowspan="2" colspan="1">No</th>
+          <th rowspan="2">Unit Kompetensi</th>
+          <th rowspan="1" colspan="2">Modul</th>
+          <th rowspan="1" colspan="3">Perkiraan Waktu Pelatihan (JP)</th>
+      </tr>
+      <tr>
+          <th>Kode Modul</th>
+          <th>Judul Modul</th>
+          <th>Pengetahuan</th>
+          <th>Keterampilan</th>
+          <th>Jumlah</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td rowspan="3">1</td>
+          <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
+          <td><strong>ke.js.1.01.01.1</strong></td>
+          <td><strong>Tentang</strong></td>
+          <td rowspan="3">2</td>
+          <td rowspan="3">0</td>
+          <td rowspan="3">2</td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.01.02.1</strong></td>
+          <td><strong>Sejarah</strong></td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.01.03.1</strong></td>
+          <td><strong>Roadmap</strong></td>
+      </tr>
+      <tr>
+          <td rowspan="2">2</td>
+          <td rowspan="2"><strong>Proyek JavaScript</strong></td>
+          <td><strong>ke.js.1.02.01.1</strong></td>
+          <td><strong>Demo</strong></td>
+          <td rowspan="2">2</td>
+          <td rowspan="2">4</td>
+          <td rowspan="2">6</td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.02.02.1</strong></td>
+          <td><strong>Development</strong></td>
+      </tr>
+      <tr>
+          <td rowspan="2">3</td>
+          <td rowspan="2"><strong>Alat JavaScript</strong></td>
+          <td><strong>ke.js.1.03.01.1</strong></td>
+          <td><strong>Instalasi</strong></td>
+          <td rowspan="2">2</td>
+          <td rowspan="2">4</td>
+          <td rowspan="2">6</td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.03.02.1</strong></td>
+          <td><strong>Konfigurasi</strong></td>
+      </tr>
+      <tr>
+          <td rowspan="2">4</td>
+          <td rowspan="2"><strong>Standard & Best Practice JavaScript</strong></td>
+          <td><strong>ke.js.1.04.01.1</strong></td>
+          <td><strong>Style Guide</strong></td>
+          <td rowspan="2">1</td>
+          <td rowspan="2">1</td>
+          <td rowspan="2">2</td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.04.02.1</strong></td>
+          <td><strong>Struktur</strong></td>
+      </tr>
+      <tr>
         <td rowspan="3">5</td>
+        <td rowspan="3"><strong>Debugging JavaScript</strong></td>
+        <td><strong>ke.js.1.05.01.1</strong></td>
+        <td><strong>Browser Debugging Tools</strong></td>
+        <td rowspan="3">2</td>
+        <td rowspan="3">4</td>
+        <td rowspan="3">6</td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.1.05.02.1</strong></td>
+        <td><strong>Text Editor Debugging Tools</strong></td>
+    </tr>
+    <tr>
+        <td><strong>ke.js.1.05.03.1</strong></td>
+        <td><strong>Console Debugging</strong></td>
+    </tr>
+    <tr>
+          <td rowspan="3">6</td>
+          <td rowspan="3"><strong>Comment JavaScript</strong></td>
+          <td><strong>ke.js.1.06.01.1</strong></td>
+          <td><strong>Single Line</strong></td>
+          <td rowspan="3">1</td>
+          <td rowspan="3">1</td>
+          <td rowspan="3">2</td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.06.02.1</strong></td>
+          <td><strong>Multi Line</strong></td>
+      </tr>
+      <tr>
+          <td><strong>ke.js.1.06.03.1</strong></td>
+          <td><strong>Comment Out</strong></td>
+      </tr>
+    <tr>
+        <td rowspan="3">7</td>
         <td rowspan="3"><strong>Variable dan Constant JavaScript</strong></td>
-        <td><strong>ke.js.01.005.01.1</strong></td>
+        <td><strong>ke.js.1.07.01.1</strong></td>
         <td><strong>Variable</strong></td>
         <td rowspan="3">2</td>
         <td rowspan="3">2</td>
         <td rowspan="3">4</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.005.02.1</strong></td>
+        <td><strong>ke.js.1.07.02.1</strong></td>
         <td><strong>Constant</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.005.03.1</strong></td>
+        <td><strong>ke.js.1.07.03.1</strong></td>
         <td><strong>Scope</strong></td>
     </tr>
     <tr>
-        <td rowspan="9">6</td>
+        <td rowspan="9">8</td>
         <td rowspan="9"><strong>Tipe Data JavaScript</strong></td>
-        <td><strong>ke.js.01.006.01.1</strong></td>
+        <td><strong>ke.js.1.08.01.1</strong></td>
         <td><strong>Boolean</strong></td>
         <td rowspan="9">4</td>
         <td rowspan="9">8</td>
         <td rowspan="9">12</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.02.1</strong></td>
+        <td><strong>ke.js.1.08.02.1</strong></td>
         <td><strong>Null</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.03.1</strong></td>
+        <td><strong>ke.js.1.08.03.1</strong></td>
         <td><strong>Undefined</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.04.1</strong></td>
+        <td><strong>ke.js.1.08.04.1</strong></td>
         <td><strong>Number</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.05.1</strong></td>
+        <td><strong>ke.js.1.08.05.1</strong></td>
         <td><strong>Symbol</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.06.1</strong></td>
+        <td><strong>ke.js.1.08.06.1</strong></td>
         <td><strong>String</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.07.1</strong></td>
+        <td><strong>ke.js.1.08.07.1</strong></td>
         <td><strong>Object</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.08.1</strong></td>
+        <td><strong>ke.js.1.08.08.1</strong></td>
         <td><strong>Cek Tipe Data</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.006.09.1</strong></td>
+        <td><strong>ke.js.1.08.09.1</strong></td>
         <td><strong>Konversi Tipe Data</strong></td>
     </tr>
     <tr>
-        <td rowspan="4">7</td>
+        <td rowspan="4">9</td>
         <td rowspan="4"><strong>Struktur Data JavaScript</strong></td>
-        <td><strong>ke.js.01.007.01.1</strong></td>
+        <td><strong>ke.js.1.09.01.1</strong></td>
         <td><strong>Array 1 Dimensi</strong></td>
         <td rowspan="4">4</td>
         <td rowspan="4">6</td>
         <td rowspan="4">10</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.007.02.1</strong></td>
+        <td><strong>ke.js.1.09.02.1</strong></td>
         <td><strong>Array Multi Dimensi</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.007.03.1</strong></td>
+        <td><strong>ke.js.1.09.03.1</strong></td>
         <td><strong>Object 1 Dimensi</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.007.04.1</strong></td>
+        <td><strong>ke.js.1.09.04.1</strong></td>
         <td><strong>Object Multi Dimensi</strong></td>
     </tr>
     <tr>
-        <td rowspan="6">8</td>
+        <td rowspan="6">10</td>
         <td rowspan="6"><strong>Operator JavaScript</strong></td>
-        <td><strong>ke.js.01.008.01.1</strong></td>
+        <td><strong>ke.js.1.10.01.1</strong></td>
         <td><strong>Arithmetic</strong></td>
         <td rowspan="6">4</td>
         <td rowspan="6">8</td>
         <td rowspan="6">12</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.02.1</strong></td>
+        <td><strong>ke.js.1.10.02.1</strong></td>
         <td><strong>Assignment</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.03.1</strong></td>
+        <td><strong>ke.js.1.10.03.1</strong></td>
         <td><strong>Comparison</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.04.1</strong></td>
+        <td><strong>ke.js.1.10.04.1</strong></td>
         <td><strong>Logical</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.05.1</strong></td>
+        <td><strong>ke.js.1.10.05.1</strong></td>
         <td><strong>Bitwise</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.008.06.1</strong></td>
+        <td><strong>ke.js.1.10.06.1</strong></td>
         <td><strong>Special</strong></td>
     </tr>
     <tr>
-        <td rowspan="5">9</td>
+        <td rowspan="5">11</td>
         <td rowspan="5"><strong>Conditional JavaScript</strong></td>
-        <td><strong>ke.js.01.009.01.1</strong></td>
+        <td><strong>ke.js.1.11.1.1</strong></td>
         <td><strong>If</strong></td>
         <td rowspan="5">2</td>
         <td rowspan="5">6</td>
         <td rowspan="5">8</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.009.02.1</strong></td>
+        <td><strong>ke.js.1.11.02.1</strong></td>
         <td><strong>Else</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.009.03.1</strong></td>
+        <td><strong>ke.js.1.11.03.1</strong></td>
         <td><strong>Else If</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.009.04.1</strong></td>
+        <td><strong>ke.js.1.11.04.1</strong></td>
         <td><strong>Ternary</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.009.05.1</strong></td>
+        <td><strong>ke.js.1.11.05.1</strong></td>
         <td><strong>Switch</strong></td>
     </tr>
     <tr>
-        <td rowspan="9">10</td>
+        <td rowspan="9">12</td>
         <td rowspan="9"><strong>Loop JavaScript</strong></td>
-        <td><strong>ke.js.01.010.01.1</strong></td>
+        <td><strong>ke.js.1.12.01.1</strong></td>
         <td><strong>While</strong></td>
         <td rowspan="9">2</td>
         <td rowspan="9">6</td>
         <td rowspan="9">8</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.02.1</strong></td>
+        <td><strong>ke.js.1.12.02.1</strong></td>
         <td><strong>Do While</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.03.1</strong></td>
+        <td><strong>ke.js.1.12.03.1</strong></td>
         <td><strong>For</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.04.1</strong></td>
+        <td><strong>ke.js.1.12.04.1</strong></td>
         <td><strong>Break</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.05.1</strong></td>
+        <td><strong>ke.js.1.12.05.1</strong></td>
         <td><strong>Continue</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.06.1</strong></td>
+        <td><strong>ke.js.1.12.06.1</strong></td>
         <td><strong>For Of</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.07.1</strong></td>
+        <td><strong>ke.js.1.12.07.1</strong></td>
         <td><strong>For In</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.08.1</strong></td>
+        <td><strong>ke.js.1.12.08.1</strong></td>
         <td><strong>Foreach</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.010.09.1</strong></td>
+        <td><strong>ke.js.1.12.09.1</strong></td>
         <td><strong>Map</strong></td>
     </tr>
     <tr>
-        <td rowspan="6">11</td>
-        <td rowspan="6"><strong>Function JavaScript</strong></td>
-        <td><strong>ke.js.01.011.01.1</strong></td>
+        <td rowspan="7">13</td>
+        <td rowspan="7"><strong>Function JavaScript</strong></td>
+        <td><strong>ke.js.1.13.01.1</strong></td>
         <td><strong>Function Declaration</strong></td>
-        <td rowspan="6">2</td>
-        <td rowspan="6">8</td>
-        <td rowspan="6">10</td>
+        <td rowspan="7">2</td>
+        <td rowspan="7">8</td>
+        <td rowspan="7">10</td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.011.02.1</strong></td>
+        <td><strong>ke.js.1.13.02.1</strong></td>
         <td><strong>Function Expression</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.011.03.1</strong></td>
+        <td><strong>ke.js.1.13.03.1</strong></td>
         <td><strong>Shorthand Function</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.011.04.1</strong></td>
+        <td><strong>ke.js.1.13.04.1</strong></td>
         <td><strong>Arrow Function</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.011.05.1</strong></td>
+        <td><strong>ke.js.1.13.05.1</strong></td>
         <td><strong>Generator Function</strong></td>
     </tr>
     <tr>
-        <td><strong>ke.js.01.011.06.1</strong></td>
+        <td><strong>ke.js.1.13.06.1</strong></td>
         <td><strong>New Function</strong></td>
     </tr>
     <tr>
-        <td rowspan="4">12</td>
-        <td rowspan="4"><strong>Debugging JavaScript</strong></td>
-        <td><strong>ke.js.01.012.01.1</strong></td>
-        <td><strong>Console</strong></td>
-        <td rowspan="4">2</td>
-        <td rowspan="4">4</td>
-        <td rowspan="4">6</td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.012.02.1</strong></td>
-        <td><strong>Debugger</strong></td>
-    </tr>
-    <tr>
-        <td><strong>ke.js.01.012.03.1</strong></td>
-        <td><strong>Browser Debugging Tools</strong></td>
-    </tr>
-     <tr>
-        <td><strong>ke.js.01.012.04.1</strong></td>
-        <td><strong>Breakpoints</strong></td>
+        <td><strong>ke.js.1.13.07.1</strong></td>
+        <td><strong>Recursive</strong></td>
     </tr>
 </tbody>
+<tfoot>
+    <tr>
+        <td colspan="3"></td>
+        <th>Total JP</th>
+        <th>28</th>
+        <th>54</th>
+        <th>82</th>
+    </tr>
+</tfoot>
 </table>
 
 <a href="#daftar-isi" title="^ top">^ top</a>
