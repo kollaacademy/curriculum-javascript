@@ -1,11 +1,12 @@
+<h1>JavaScript Programmer</h1>
+
 <h2 id="daftar-isi">Daftar Isi</h2>
 
 <ol>
   <li><a href="#ikhtisar" title="Ikhtisar">Ikhtisar</li>
   <li><a href="#silabus" title="Silabus">Silabus</li>
-  <li><a href="#materi" title="Materi">Materi</li>
-  <li><a href="#referensi" title="Referensi">Referensi</li>
   <li><a href="#sertifikasi" title="">Sertifikasi</li>
+  <li><a href="#referensi" title="Referensi">Referensi</li>
 </ol>
 
 <hr>
@@ -16,31 +17,22 @@
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>JavaScript Programmer</td>
+      <td>HTML Programmer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>ke.js.01.000.00.1</strong></td>
+      <td><strong>ke.html.1</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
-      <td>Programmer</td>
+      <td>Front-End Programmer</td>
     </tr>
     <tr>
       <td><strong>Standar Kompetensi Acuan</strong></td>
       <td>
         <ul>
-          <li>Standar Kompetensi Kerja Nasional Indonesia (SKKNI)</li>
-          <li>Standar Kompetensi Internasional</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Skema Sertifikasi Acuan</strong></td>
-      <td>
-        <ul>
-          <li>Sertifikasi KKNI Level II pada Kompetensi Keahlian Rekayasa Perangkat Lunak (KKNI)</li>
-          <li>Sertifikasi Kompetensi Internasional</li>
+          <li>Nasional</li>
+          <li>Internasional</li>
         </ul>
       </td>
     </tr>
@@ -51,25 +43,6 @@
     <tr>
       <td><strong>Sasaran Pelatihan</strong></td>
       <td>Terwujudnya SDM yang memiliki kompetensi JavaScript secara profesional</td>
-    </tr>
-    <tr>
-      <td><strong>Unit Kompetensi yang ditempuh</strong></td>
-      <td>
-        <ol>
-          <li><strong>ke.js.01.001.00.1</strong> Ekosistem</li>
-          <li><strong>ke.js.01.002.00.1</strong> Instalasi dan Konfigurasi</li>
-          <li><strong>ke.js.01.003.00.1</strong> Standard dan Best Practice</li>
-          <li><strong>ke.js.01.004.00.1</strong> Comment</li>
-          <li><strong>ke.js.01.005.00.1</strong> Variable dan Constant</li>
-          <li><strong>ke.js.01.006.00.1</strong> Tipe Data</li>
-          <li><strong>ke.js.01.007.00.1</strong> Struktur Data</li>
-          <li><strong>ke.js.01.008.00.1</strong> Operator</li>
-          <li><strong>ke.js.01.009.00.1</strong> Conditional</li>
-          <li><strong>ke.js.01.10.00.1</strong> Loop</li>
-          <li><strong>ke.js.01.11.00.1</strong> Function</li>
-          <li><strong>ke.js.01.12.00.1</strong> Debugging</li>
-        </ol>
-      </td>
     </tr>
     <tr>
       <td><strong>Perkiraan Waktu Pelatihan</th>
@@ -90,10 +63,10 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <strong>ke.komp.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.inet.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.html.01</strong></li>
-          <li>Memiliki Kompetensi <strong>ke.css.01</strong></li>
+          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-ki/" title="Komputer & Internet 101"><strong>ke.ki.1</strong></a></li>
+          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-html/" title="HTML 101"><strong>ke.html.1</strong></a></li>
+          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-css/" title="CSS 101"><strong>ke.css.1</strong></a></li>
+          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-javascript/" title="CSS 101"><strong>ke.js.1</strong></a></li>
           <li>Mengikuti Training of Trainer untuk Mentor</li>
         </ol>
       </td>
@@ -325,7 +298,7 @@
     <tr>
         <td rowspan="5">11</td>
         <td rowspan="5"><strong>Conditional JavaScript</strong></td>
-        <td><strong>ke.js.1.11.1.1</strong></td>
+        <td><strong>ke.js.1.11.01.1</strong></td>
         <td><strong>If</strong></td>
         <td rowspan="5">2</td>
         <td rowspan="5">6</td>
