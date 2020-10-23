@@ -17,11 +17,11 @@
   <tbody>
     <tr>
       <td><strong>Nama Program Pelatihan</strong></td>
-      <td>HTML Programmer</td>
+      <td>JavaScript Programmer</td>
     </tr>
     <tr>
       <td><strong>Kode Program Pelatihan</strong></td>
-      <td><strong>ke.html.1</strong></td>
+      <td><strong>ke.js.1</strong></td>
     </tr>
     <tr>
       <td><strong>Sub Bidang Pelatihan</strong></td>
@@ -63,7 +63,7 @@
       <td><strong>Persyaratan Umum Tenaga Pengajar</strong></td>
       <td>
         <ol>
-          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-ki/" title="Komputer & Internet 101"><strong>ke.ki.1</strong></a></li>
+          <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-ki/" title="Komputer dan Internet 101"><strong>ke.ki.1</strong></a></li>
           <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-html/" title="HTML 101"><strong>ke.html.1</strong></a></li>
           <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-css/" title="CSS 101"><strong>ke.css.1</strong></a></li>
           <li>Memiliki Kompetensi <a href="https://github.com/kollaeducation/kurikulum-javascript/" title="CSS 101"><strong>ke.js.1</strong></a></li>
@@ -99,7 +99,7 @@
   <tbody>
       <tr>
           <td rowspan="3">1</td>
-          <td rowspan="3"><strong>Ekosistem JavaScript</strong></td>
+          <td rowspan="3"><strong>Semesta JavaScript</strong></td>
           <td><strong>ke.js.1.01.01.1</strong></td>
           <td><strong>Tentang</strong></td>
           <td rowspan="3">2</td>
@@ -112,7 +112,7 @@
       </tr>
       <tr>
           <td><strong>ke.js.1.01.03.1</strong></td>
-          <td><strong>Roadmap</strong></td>
+          <td><strong>Peta Jalan</strong></td>
       </tr>
       <tr>
           <td rowspan="2">2</td>
@@ -142,7 +142,7 @@
       </tr>
       <tr>
           <td rowspan="2">4</td>
-          <td rowspan="2"><strong>Standard & Best Practice JavaScript</strong></td>
+          <td rowspan="2"><strong>Standard dan Best Practice JavaScript</strong></td>
           <td><strong>ke.js.1.04.01.1</strong></td>
           <td><strong>Style Guide</strong></td>
           <td rowspan="2">1</td>
